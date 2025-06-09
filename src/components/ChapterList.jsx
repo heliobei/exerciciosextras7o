@@ -4,8 +4,8 @@ import ChapterCard from "./ChapterCard";
 const chapters = [
   { id: 1, title: "O que é consumismo?", teacherPdf: "/assets/pdfs/Educador_Capitulo_01_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_01_7o.pdf" },
   { id: 2, title: "Como não gastar mais do que deveríamos!", teacherPdf: "/assets/pdfs/Educador_Capitulo_02_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_02_7o.pdf" },
-  
-  // ... mais capítulos
+  { id: 3, title: "Um dinheirinho para chamar de meu", teacherPdf: "/assets/pdfs/Educador_Capitulo_03_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_03_7o.pdf" },
+  // ... mais capítulos Um dinheirinho para chamar de meu
 ];
 
 const ChapterList = () => {
