@@ -5,7 +5,9 @@ const chapters = [
   { id: 1, title: "O que é consumismo?", teacherPdf: "/assets/pdfs/Educador_Capitulo_01_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_01_7o.pdf" },
   { id: 2, title: "Como não gastar mais do que deveríamos!", teacherPdf: "/assets/pdfs/Educador_Capitulo_02_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_02_7o.pdf" },
   { id: 3, title: "Um dinheirinho para chamar de meu", teacherPdf: "/assets/pdfs/Educador_Capitulo_03_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_03_7o.pdf" },
-  // ... mais capítulos Um dinheirinho para chamar de meu
+  { id: 4, title: "Acabou o dinheiro. O que fazer?", teacherPdf: "/assets/pdfs/Educador_Capitulo_04_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_04_7o.pdf" },
+  { id: 5, title: "Como faço para guardar dinheiro?", teacherPdf: "/assets/pdfs/Educador_Capitulo_05_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_05_7o.pdf" },
+  // ... mais capítulos
 ];
 
 const ChapterList = () => {
