@@ -8,8 +8,8 @@ const chapters = [
   { id: 4, title: "Acabou o dinheiro. O que fazer?", teacherPdf: "/assets/pdfs/Educador_Capitulo_04_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_04_7o.pdf" },
   { id: 5, title: "Como faço para guardar dinheiro?", teacherPdf: "/assets/pdfs/Educador_Capitulo_05_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_05_7o.pdf" },
   
-  { id: 5, title: "Uma ajuda é sempre bem vinda", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_7o.pdf" },
-  { id: 5, title: "O poder da poupança", teacherPdf: "/assets/pdfs/Educador_Capitulo_07_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_07_7o.pdf" },
+  { id: 6, title: "Uma ajuda é sempre bem vinda", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_7o.pdf" },
+  { id: 7, title: "O poder da poupança", teacherPdf: "/assets/pdfs/Educador_Capitulo_07_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_07_7o.pdf" },
   // ... mais capítulos
 ];
 
