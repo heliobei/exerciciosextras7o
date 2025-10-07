@@ -10,6 +10,8 @@ const chapters = [
   
   { id: 6, title: "Uma ajuda é sempre bem vinda", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_7o.pdf" },
   { id: 7, title: "O poder da poupança", teacherPdf: "/assets/pdfs/Educador_Capitulo_07_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_07_7o.pdf" },
+  { id: 8, title: "Um desconto sempre ajuda", teacherPdf: "/assets/pdfs/Educador_Capitulo_08_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_08_7o.pdf" },
+  { id: 9, title: "Realizando ideias", teacherPdf: "/assets/pdfs/Educador_Capitulo_09_7o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_09_7o.pdf" },
   // ... mais capítulos
 ];
 
